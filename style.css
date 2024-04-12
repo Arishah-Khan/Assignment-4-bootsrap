@@ -407,7 +407,7 @@ ul>li {
         width: 223px;
         height: 348px;
         position: absolute;
-        top: 210px;
+        top: 200px;
         left: 250px;
         z-index: -1;
 
@@ -524,7 +524,7 @@ ul>li {
 
     .custom-mobile {
         position: absolute;
-        bottom: -120px;
+        bottom: -110px;
         left: 250px;
         z-index: -1;
 
@@ -716,4 +716,7 @@ ul>li {
 }
 footer{
     background-color: #FFFFFF;
+}
+.position-relative{
+    margin-bottom: 100px;
 }
